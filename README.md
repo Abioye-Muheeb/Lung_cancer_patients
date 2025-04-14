@@ -1,5 +1,20 @@
 # Lung cancer patients
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Introduction](#introduction)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Analysis](#data-analysis)
+- [Key Metric](#key-metric)
+- [key Objectives](#key-objectives)
+- [Data Highlights](#data-highlights)
+- [Key Findings](#key-findings)
+- [Implications and Future Directions](#implications-and-future-directions)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 ### Project Overview 
 
 The Lung Cancer Project aims to develop innovative treatment plans that boost survival rates and enhance the quality of life for lung cancer patients.
