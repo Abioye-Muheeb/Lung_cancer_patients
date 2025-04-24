@@ -24,8 +24,11 @@ The Lung Cancer Project aims to develop innovative treatment plans that boost su
 Lung cancer remains one of the most formidable challenges in global health, claiming countless lives and demanding innovative approaches to prevention, diagnosis, and treatment. This comprehensive lung cancer project leverages a robust dataset of 300,000 patients to uncover critical demographic, lifestyle, environmental, and treatment related trends. By analyzing a wide array of factors from smoking history and air quality exposure to cancer stage and survival outcomes, this initiative aims to provide actionable insights for healthcare professionals, policymakers, and researchers striving to combat this devastating disease.
 
 ![Screenshot 2025-04-13 124449](https://github.com/user-attachments/assets/6e8d512f-56c8-4156-94be-4b62fc537eb2)
-
-
+![Screenshot 2025-04-24 121819](https://github.com/user-attachments/assets/152a53e5-09ed-4875-bdeb-dd5cc7512e9f)
+![Screenshot 2025-04-24 122007](https://github.com/user-attachments/assets/710a269d-f687-4a8e-b4e2-e035e2c9533a)
+![Screenshot 2025-04-24 122100](https://github.com/user-attachments/assets/7528e16a-2e3e-4d67-95aa-2bef68988790)
+![Screenshot 2025-04-24 122305](https://github.com/user-attachments/assets/1626f3d2-c68f-4aae-ac6d-6f2a2f25e312)
+![Screenshot 2025-04-24 122351](https://github.com/user-attachments/assets/9accb93f-0fec-4c8e-a61b-4a37d9e67737)
 
 
 ### Data Sources
